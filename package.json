@@ -1,6 +1,6 @@
 {
   "name": "portfolio-website-main",
-  "homepage": "https://briantule.github.io/briantule.github.io",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
