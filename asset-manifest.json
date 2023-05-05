@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.5613bd1d.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.a8a335b6.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.a8a335b6.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.0df85a92.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.0df85a92.js.map",
-    "static/css/2.c1e0fe99.chunk.css": "/react-gh-pages/static/css/2.c1e0fe99.chunk.css",
-    "static/js/2.76ad7cd3.chunk.js": "/react-gh-pages/static/js/2.76ad7cd3.chunk.js",
-    "static/js/2.76ad7cd3.chunk.js.map": "/react-gh-pages/static/js/2.76ad7cd3.chunk.js.map",
+    "main.css": "/react-gh-pages/static/css/main.5c1ba7f2.css",
+    "main.js": "/react-gh-pages/static/js/main.aa4051f8.js",
+    "static/media/testimonial-2.webp": "/react-gh-pages/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
+    "static/media/p1.webp": "/react-gh-pages/static/media/p1.52f0f3a89c11044c2037.webp",
+    "static/media/p5.webp": "/react-gh-pages/static/media/p5.40f22911cc8104bfdf42.webp",
+    "static/media/testimonial-3.webp": "/react-gh-pages/static/media/testimonial-3.677360499dd5a97f022a.webp",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.b40a46869d8e3421cad9bf9a0b71804b.svg",
+    "static/media/p3.webp": "/react-gh-pages/static/media/p3.05179f007af7cd2ad2a6.webp",
+    "static/media/p4.webp": "/react-gh-pages/static/media/p4.373ffd063f14c91c84c5.webp",
+    "static/media/p6.webp": "/react-gh-pages/static/media/p6.26fcf4320bfa0eacc03a.webp",
+    "static/media/testimonial-1.webp": "/react-gh-pages/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
+    "static/media/p2.webp": "/react-gh-pages/static/media/p2.987c883e6e66df8a1228.webp",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.f367c60e2e0918d3b27cb155ccee7e19.js": "/react-gh-pages/precache-manifest.f367c60e2e0918d3b27cb155ccee7e19.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/2.c1e0fe99.chunk.css.map": "/react-gh-pages/static/css/2.c1e0fe99.chunk.css.map",
-    "static/css/main.5613bd1d.chunk.css.map": "/react-gh-pages/static/css/main.5613bd1d.chunk.css.map",
-    "static/js/2.76ad7cd3.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.76ad7cd3.chunk.js.LICENSE.txt"
+    "main.5c1ba7f2.css.map": "/react-gh-pages/static/css/main.5c1ba7f2.css.map",
+    "main.aa4051f8.js.map": "/react-gh-pages/static/js/main.aa4051f8.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0df85a92.js",
-    "static/css/2.c1e0fe99.chunk.css",
-    "static/js/2.76ad7cd3.chunk.js",
-    "static/css/main.5613bd1d.chunk.css",
-    "static/js/main.a8a335b6.chunk.js"
+    "static/css/main.5c1ba7f2.css",
+    "static/js/main.aa4051f8.js"
   ]
 }
