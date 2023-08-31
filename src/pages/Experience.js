@@ -10,6 +10,16 @@ function Experience() {
       <VerticalTimeline lineColor='#3e497a'>
         <VerticalTimelineElement
           className='vertical-timeline-element--work'
+          date='Mat 2023 - Present'
+          iconStyle={{ background: '#3e497a', color: '#fff' }}
+          icon={<WorkIcon />}
+        >
+          <h3 className='vertical-timeline-element-title'> Software Engineer - Royal Bank of Canada</h3>
+          <h4 className='vertical-timeline-element-title'>Toronto, ON</h4>
+          <p>Random stuff</p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className='vertical-timeline-element--work'
           date='Nov 2022 - Feb 2023'
           iconStyle={{ background: '#3e497a', color: '#fff' }}
           icon={<WorkIcon />}
