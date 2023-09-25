@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.90b6ee39.css",
-    "main.js": "./static/js/main.21657925.js",
+    "main.css": "./static/css/main.7c8acadc.css",
+    "main.js": "./static/js/main.26941295.js",
     "static/js/787.a1236507.chunk.js": "./static/js/787.a1236507.chunk.js",
     "static/media/proj-cyclops.jpeg": "./static/media/proj-cyclops.b7ae8032f2756730c9be.jpeg",
     "static/media/proj-led.jpeg": "./static/media/proj-led.f470c09066b91bbe8f10.jpeg",
+    "static/media/Resume - Brian Tu Le.pdf": "./static/media/Resume - Brian Tu Le.8ce8d302d9371eea3dcc.pdf",
     "static/media/proj-portfolio.jpeg": "./static/media/proj-portfolio.eb803bf305d0df712d93.jpeg",
     "static/media/proj-stock.jpeg": "./static/media/proj-stock.b4dca1e4763a62b84e13.jpeg",
     "static/media/proj-specimen.jpeg": "./static/media/proj-specimen.1190c8e65bbf77dd0c81.jpeg",
     "static/media/proj-bomber.jpeg": "./static/media/proj-bomber.f7a80f1d1880fab452aa.jpeg",
     "static/media/proj-vSafe.jpeg": "./static/media/proj-vSafe.00df2fa2055a1b556740.jpeg",
     "index.html": "./index.html",
-    "main.90b6ee39.css.map": "./static/css/main.90b6ee39.css.map",
-    "main.21657925.js.map": "./static/js/main.21657925.js.map",
+    "main.7c8acadc.css.map": "./static/css/main.7c8acadc.css.map",
+    "main.26941295.js.map": "./static/js/main.26941295.js.map",
     "787.a1236507.chunk.js.map": "./static/js/787.a1236507.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90b6ee39.css",
-    "static/js/main.21657925.js"
+    "static/css/main.7c8acadc.css",
+    "static/js/main.26941295.js"
   ]
 }
