@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import EmailIcon from '@mui/icons-material/Email';
 import GithubIcon from '@mui/icons-material/GitHub';
@@ -39,7 +39,7 @@ function Home() {
             <spann>
               NodeJS, Java Spring, MySQL, MongoDB, MS SQL
             </spann>
-          </li>ß
+          </li>
           <li className='item'>
             <h2>Languages</h2>
             <spann>

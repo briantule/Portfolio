@@ -1,4 +1,8 @@
 .projects {
+  /* background-color: #3e497a; */
+  /* background-image: url('https://wallpapercave.com/wp/wp12299273.jpg');
+  background-position: center;
+  background-size: cover; */
   width: 100%;
   height: auto;
   display: flex;
@@ -24,7 +28,10 @@
 /* MENU ITEM STYLING */
 
 .projectItem {
+  background: rgba( 255, 255, 255, 0.3 );
+  backdrop-filter: blur(7.5px);
   border-radius: 15px;
+  z-index: 4;
   width: 300px;
   height: 300px;
   margin: 40px;
