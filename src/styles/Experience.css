@@ -8,3 +8,16 @@
     boarder-right: '7px solid rgba(255, 255, 255, 0.3)',
     backdropFilter: 'blur(7.5px)',
 } */
+
+.company-logo .logo {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+@media only screen and (min-width: 1170px) {
+    .company-logo .logo {
+        border-radius: 50%;
+        height: 60px;
+        width: 60px;
+    }
+}

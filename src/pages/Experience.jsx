@@ -2,7 +2,7 @@ import React from 'react'
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 //import SchoolIcon from '@mui/icons-material/School';
-import WorkIcon from '@mui/icons-material/Work';
+// import WorkIcon from '@mui/icons-material/Work';
 import '../styles/Experience.css';
 import ExperienceList from "../helpers/ExperienceList";
 
@@ -25,7 +25,7 @@ function Experience() {
                 backdropFilter: 'blur(7.5px)',
               }}
               iconStyle={{ background: '#3e497a', color: '#fff' }}
-              icon={<WorkIcon />}
+              icon={<div className='company-logo' ><img className='logo' src={item.logo} alt='logo' /></div>}
             >
               <h3 className='vertical-timeline-element-title'>{item.title}</h3>
               <h4 className='vertical-timeline-element-title'>{item.location}</h4>

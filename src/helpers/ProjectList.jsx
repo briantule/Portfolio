@@ -1,10 +1,10 @@
-import ProjPortfolio from '../assets/proj-portfolio.jpeg';
-import ProjCyclops from '../assets/proj-cyclops.jpeg';
-import ProjvSafe from '../assets/proj-vSafe.jpeg';
-import ProjSpecimen from '../assets/proj-specimen.jpeg';
-import ProjBomber from '../assets/proj-bomber.jpeg';
-import ProjStock from '../assets/proj-stock.jpeg';
-import ProjLED from '../assets/proj-led.jpeg';
+import ProjPortfolio from '../assets/project-img/proj_portfolio.jpeg';
+import ProjCyclops from '../assets/project-img/proj_cyclops.jpeg';
+import ProjvSafe from '../assets/project-img/proj_vSafe.jpeg';
+import ProjSpecimen from '../assets/project-img/proj_specimen.jpeg';
+import ProjBomber from '../assets/project-img/proj_bomber.jpeg';
+import ProjStock from '../assets/project-img/proj_stock.jpeg';
+import ProjLED from '../assets/project-img/proj_led.jpeg';
 
 export const ProjectList = [
     {
