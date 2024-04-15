@@ -24,7 +24,8 @@ function Experience() {
                 background: 'rgba(255, 255, 255, 0.3)',
                 backdropFilter: 'blur(7.5px)',
               }}
-              iconStyle={{ background: '#3e497a', color: '#fff' }}
+              iconOnClick={() => window.open(item.url, "_blank")}
+              iconStyle={{ background: '#3e497a', color: '#fff', cursor: 'pointer' }}
               icon={<div className='company-logo' ><img className='logo' src={item.logo} alt='logo' /></div>}
             >
               <h3 className='vertical-timeline-element-title'>{item.title}</h3>

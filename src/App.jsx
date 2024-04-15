@@ -12,7 +12,8 @@ import { Parallax, ParallaxLayer } from '@react-spring/parallax';
 
 function App() {
   return (
-    <Parallax pages={2}>
+    <div className="App">
+      <Parallax pages={2}>
       <ParallaxLayer
         offset={0}
         speed={0.5}
@@ -20,7 +21,7 @@ function App() {
         style={{
           backgroundImage: `url('https://wallpapercave.com/wp/wp12299273.jpg')`,
           backgroundPosition: 'center',
-          backgroundSize: 'cover'
+          backgroundSize: 'cover',
         }}
       />
       <ParallaxLayer offset={0} speed={1}>
@@ -39,6 +40,7 @@ function App() {
         </div>
       </ParallaxLayer>
     </Parallax>
+    </div >
   );
 }
 
